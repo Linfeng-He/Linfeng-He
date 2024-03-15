@@ -1,7 +1,7 @@
 ---
 title: Service
 layout: page
-permalink: /service/
+permalink: /5-service/
 ---
 
 # Service

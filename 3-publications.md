@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: page
-permalink: /publications/
+permalink: /3-publications/
 ---
 
 # Publications

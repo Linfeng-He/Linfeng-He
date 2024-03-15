@@ -1,7 +1,7 @@
 ---
 title: Recent Projects
 layout: page
-permalink: /recent-projects/
+permalink: /4-recent-projects/
 ---
 
 # Recent Projects
