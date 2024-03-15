@@ -1,9 +1,23 @@
 ---
-title: /
+title: Home
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Welcome to My Personal Site
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+&nbsp;
+
+Hello, This is Lin. a first-year Ph.D. student at Rutgers University, under the guidance of Prof. Sudarsun Kannan. 
+I'm deeply passionate about my research, which Operating System & Architecture.
+
+Feel free to browse my site to learn more about my projects and experiences. If you have any questions or would like to get in touch, please don't hesitate to contact me at [lin.he AT rutgers DOT edu].
+
+Thank you for visiting!
+
+## Navigation
+
+- [Recent Projects](/4-recent-projects/)
+- [Service](/5-service/)
+- [Awards](/2-awards/)
+- [Publications](/3-publications/)

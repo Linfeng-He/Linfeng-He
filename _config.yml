@@ -31,12 +31,11 @@
 
 header_pages:
   - index.md
-  - about.md
 
-style: light # dark (default), light or hacker
+style: hacker # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true
 
-footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+footer: 'Hope got some paper published soon'
 
 google_analytics: UA-NNNNNNNN-N
 
