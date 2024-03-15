@@ -1,35 +1,27 @@
----
-title: Post
-sidebar: home_sidebar
-keywords: news, blog, updates, release notes, announcements
-permalink: index.html
-toc: false
-folder: news
----
-<div class="home">
-{% if page.comments %} <script>	$("#tg-sb-sidebar").toggle();</script>{% endif %}
-    <div class="post-list">
-        {% for post in site.posts limit:3 %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to My Personal Site</title>
+    <!-- Add any additional meta tags, stylesheets here -->
+</head>
+<body>
+    <h1>Welcome to My Personal Site</h1>
 
+    <p>Hello, this is Lin, a first-year Ph.D. student at Rutgers University, under the guidance of Prof. Sudarsun Kannan. I'm deeply passionate about my research, which focuses on Operating System & Architecture.</p>
 
-    <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} /
-            {% for tag in post.tags %}
+    <p>Feel free to browse my site to learn more about my projects and experiences. If you have any questions or would like to get in touch, please don't hesitate to contact me at <a href="mailto:lin.he@rutgers.edu">lin.he AT rutgers DOT edu</a>.</p>
 
-                <a href="{{ "tag_" | append: tag | append: ".html"}}">{{tag}}</a>{% unless forloop.last %}, {% endunless%}
+    <p>Thank you for visiting!</p>
 
-                {% endfor %}</span>
-		<!--	{{ post.excerpt | strip_html | truncate : 160 }}
-				<p class="text-left"><a href="{{post.url}}">Read more...</a></p>-->
-			
-        <p>{% if post.summary %} {{ post.summary | strip_newlines | truncate: 160 }} <p class="text-left"><a href="{{post.url}}">Read more...</a></p> {% else %} {{ post.excerpt | strip_html }} <p class="text-left"><a href="{{post.url}}">Read more...</a></p> {% endif %}</p>
+    <h2>Navigation</h2>
 
-        {% endfor %}
-
-        <!--<p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>-->
-
-<hr />
-
-
-    </div>
-</div>
+    <ul>
+        <li><a href="/4-recent-projects/">Recent Projects</a></li>
+        <li><a href="/5-service/">Service</a></li>
+        <li><a href="/2-awards/">Awards</a></li>
+        <li><a href="/3-publications/">Publications</a></li>
+    </ul>
+    
+</body>
+</html>
