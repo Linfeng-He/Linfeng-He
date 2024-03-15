@@ -9,7 +9,7 @@ Thank you for visiting!
 
 ## Navigation
 
-- [Recent Projects](./4-recent-projects.html)
-- [Service](./5-service.html)
-- [Awards](./2-awards.html)
-- [Publications](./3-publications.html)
+- [Recent Projects](./4-recent-projects/index.html)
+- [Service](./5-service/index.html)
+- [Awards](./2-awards/index.html)
+- [Publications](./3-publications/index.html)
