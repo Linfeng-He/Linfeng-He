@@ -40,7 +40,7 @@ footer: 'Hope got some paper published soon'
 google_analytics: UA-NNNNNNNN-N
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-seo-tag
 
