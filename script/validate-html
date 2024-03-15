@@ -20,9 +20,10 @@ def validate(file)
 
   return puts "Valid!" if results.errors.empty?
 
-  results.errors.each { |err| puts err.to_s }
+  results.errors.each { |err| puts err } # Removed .to_s
   exit 1
 end
+
 
 validate "index.html"
 validate File.join "assets", "css", "style.css"
