@@ -1,6 +1,5 @@
 ---
 title: Publications
-layout: page
 permalink: /3-publications/
 ---
 

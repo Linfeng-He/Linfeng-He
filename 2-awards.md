@@ -1,6 +1,5 @@
 ---
 title: Awards
-layout: page
 permalink: /2-awards/
 ---
 
