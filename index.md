@@ -1,6 +1,6 @@
 # Welcome to My Personal Site
 
-Hello, This is Linfeng, a first-year Ph.D. student at Rutgers University, under the guidance of Prof. Sudarsun Kannan. My research interests reside in Operating Systems and Architecture, both of which are super exciting to explore!
+Greetings, I'm a first-year Ph.D. student at Rutgers University, under the guidance of Prof. Sudarsun Kannan. My research interests reside in Operating Systems and Architecture, both of which are super exciting to explore!
 
 Feel free to go through my website to learn more about my projects and experiences(barely updated). If you have any questions or would like to get in touch, please don't hesitate to contact me at [lin.he AT rutgers DOT edu].
 
