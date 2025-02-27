@@ -8,7 +8,7 @@ permalink: /
 
 &nbsp;
 
-Hello, This is Lin. a first-year Ph.D. student at Rutgers University, under the guidance of Prof. Sudarsun Kannan. 
+Hello, This is Lin. a second-year Ph.D. student at Rutgers University, under the guidance of Prof. Sudarsun Kannan. 
 I'm deeply passionate about my research, which Operating System & Architecture.
 
 Feel free to browse my site to learn more about my projects and experiences. If you have any questions or would like to get in touch, please don't hesitate to contact me at [lin.he AT rutgers DOT edu].
